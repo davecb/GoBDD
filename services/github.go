@@ -3,7 +3,7 @@ package services
 
 import (
 	"context"
-	"GoBDD/models"
+	"github.com/davecb/GoBDD/models"
 	"github.com/google/go-github/github"
 )
 

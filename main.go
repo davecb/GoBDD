@@ -4,7 +4,7 @@ import (
 	"github.com/google/go-github/github"
 	"context"
 	"fmt"
-	"GoBDD/services"
+	"github.com/davecb/GoBDD/services"
 )
 
 // Model

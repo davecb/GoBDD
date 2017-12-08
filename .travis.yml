@@ -13,4 +13,4 @@ before_install:
 script:
  - $HOME/go/bin/ginkgo -r  -cover -coverpkg=./GoBDD/services/... -trace -race
  - $HOME/go/bin/gover
- - $HOME/go/bin/goveralls -coverprofile=gover.coverprofile -repotoken "Your Security Token"
+ - $HOME/go/bin/goveralls -coverprofile=gover.coverprofile -repotoken "gmCgzuy1x8PxJU7QTpKh" 
